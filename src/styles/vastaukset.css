@@ -1,0 +1,24 @@
+.content {
+    margin-top: 10%;
+}
+
+h1 {
+    margin-bottom: 3em;
+}
+
+input {
+    margin: 2em;
+    height: 2em;
+}
+
+button {
+    border-radius: 10px;
+    margin: 10px;
+    height: 2em;
+}
+
+button:hover {
+    font-weight: bold;
+    box-shadow: 2px 2px 2px grey;
+    background-color: green;
+}
